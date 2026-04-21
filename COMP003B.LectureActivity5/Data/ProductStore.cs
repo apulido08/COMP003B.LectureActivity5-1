@@ -2,7 +2,7 @@
 
 namespace COMP003B.LectureActivity5.Data;
 
-public static class ProducStore
+public static class ProductStore
 {
     public static List<Product> Products { get; } = new()
     {
